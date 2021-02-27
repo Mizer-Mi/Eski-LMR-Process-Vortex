@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMR - Process Vortex", "LMR Garanti Dışı Listesi v0.01\LMR - Process Vortex.csproj", "{1255DF9E-C1D8-4859-8199-2B8E0A8E2AA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1255DF9E-C1D8-4859-8199-2B8E0A8E2AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1255DF9E-C1D8-4859-8199-2B8E0A8E2AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1255DF9E-C1D8-4859-8199-2B8E0A8E2AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1255DF9E-C1D8-4859-8199-2B8E0A8E2AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA06B0A6-4328-428D-92B5-8DA10F0F2638}
+	EndGlobalSection
+EndGlobal

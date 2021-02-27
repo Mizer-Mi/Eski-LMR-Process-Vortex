@@ -1,0 +1,157 @@
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\LMR Garanti Dışı Listesi v0.01.exe.config
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\LMR Garanti Dışı Listesi v0.01.exe
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\LMR Garanti Dışı Listesi v0.01.pdb
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.form_loading.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.Properties.Resources.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.csproj.GenerateResource.cache
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.csproj.CoreCompileInputs.cache
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.exe
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.pdb
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.secim_form.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\MySql.Data.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Google.Protobuf.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\MySql.Data.xml
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.csproj.CopyComplete
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.secim_form_ziyaretci.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.ResimKirpmaMotoru.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Emgu.CV.World.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Emgu.CV.World.xml
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\concrt140.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\cvextern.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\msvcp140.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\opencv_ffmpeg343_64.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\vcruntime140.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\cvextern.lib
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\concrt140.dll
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\cvextern.dll
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\msvcp140.dll
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\opencv_ffmpeg343_64.dll
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\vcruntime140.dll
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\cvextern.lib
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\LMR Garanti Dışı Listesi v0.01.exe.config
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\LMR Garanti Dışı Listesi v0.01.exe
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\LMR Garanti Dışı Listesi v0.01.pdb
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Emgu.CV.World.dll
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\MySql.Data.dll
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Google.Protobuf.dll
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Emgu.CV.World.xml
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\MySql.Data.xml
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.csprojAssemblyReference.cache
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.form_loading.resources
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.Properties.Resources.resources
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.ResimKirpmaMotoru.resources
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.secim_form.resources
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.secim_form_ziyaretci.resources
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.csproj.GenerateResource.cache
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.csproj.CoreCompileInputs.cache
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.csproj.CopyComplete
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.exe
+C:\Users\Neo\Downloads\LMR_Garanti_Ds_Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.pdb
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.resim_goster_duzenle.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\ZedGraph.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.MyWaitForm.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.hakkinda.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.sifre_degistir.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.parca_ekle_basarili.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.csproj.ResolveComReference.cache
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.anamenu.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.cari_islemler.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.cari_ekle_SirtueX.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.cari_duzenle_SirtueX.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.urun_ekle_SirtueX.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.urun_duzenle_SirtueX.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.stok_ekle_SirtueX.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.stok_dus_SirtueX.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.satis_urun_ekle_liste_SirtueX.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.satis_urun_ekle_SirtueX.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.cari_sec_listesi_SirtueX.resources
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\taglib-sharp.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\taglib-sharp.xml
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.csprojAssemblyReference.cache
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.Barcode.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.DataExport.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.DataExport.ResourceMgr.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.Doc.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.DocViewer.Forms.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.License.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.Pdf.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.Presentation.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.XLS.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.Barcode.xml
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.DataExport.xml
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.DataExport.ResourceMgr.xml
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.Doc.xml
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.DocViewer.Forms.xml
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.License.xml
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.Pdf.xml
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.PdfViewer.Forms.xml
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.Presentation.xml
+C:\Users\Neo\Desktop\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.XLS.xml
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\concrt140.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\cvextern.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\msvcp140.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\opencv_ffmpeg343_64.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\vcruntime140.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\cvextern.lib
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\LMR Garanti Dışı Listesi v0.01.exe.config
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\LMR Garanti Dışı Listesi v0.01.exe
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\LMR Garanti Dışı Listesi v0.01.pdb
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.Barcode.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.DataExport.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.DataExport.ResourceMgr.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.Doc.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.DocViewer.Forms.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.License.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.Pdf.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.Presentation.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.XLS.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\ZedGraph.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Google.Protobuf.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Microsoft.mshtml.dll
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Emgu.CV.UI.xml
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Emgu.CV.World.xml
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\MySql.Data.xml
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.Barcode.xml
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.DataExport.xml
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.DataExport.ResourceMgr.xml
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.Doc.xml
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.DocViewer.Forms.xml
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.License.xml
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.Pdf.xml
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.PdfViewer.Forms.xml
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.Presentation.xml
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\Spire.XLS.xml
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\bin\Debug\taglib-sharp.xml
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.csprojAssemblyReference.cache
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.csproj.ResolveComReference.cache
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.anamenu.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.cari_duzenle_SirtueX.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.cari_ekle_SirtueX.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.cari_islemler.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.cari_sec_listesi_SirtueX.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.satis_urun_ekle_liste_SirtueX.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.satis_urun_ekle_SirtueX.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.stok_dus_SirtueX.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.parca_ekle_basarili.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.hakkinda.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.form_loading.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.MyWaitForm.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.Properties.Resources.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.ResimKirpmaMotoru.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.resim_goster_duzenle.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.secim_form.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.secim_form_ziyaretci.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.sifre_degistir.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.stok_ekle_SirtueX.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.urun_duzenle_SirtueX.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR_Garanti_Dışı_Listesi_v0._01.urun_ekle_SirtueX.resources
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.csproj.GenerateResource.cache
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.csproj.CoreCompileInputs.cache
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.csproj.CopyComplete
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.exe
+C:\Users\NeoWorf\Desktop\SirtueX\Mizer Software\LMR Garanti Dışı Listesi\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\LMR Garanti Dışı Listesi v0.01\obj\Debug\LMR Garanti Dışı Listesi v0.01.pdb
